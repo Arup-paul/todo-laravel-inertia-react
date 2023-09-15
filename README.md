@@ -10,10 +10,8 @@
 
 ## Installation
 
--  Clone the repository `git clone https://github.com/Arup-paul/todo-laravel-inertia-react.git`
-
-## Install Backend
-
+-  Clone the repository `git clone https://github.com/Arup-paul/todo-laravel-inertia-react.git` 
+ 
 - cd into the project directory `cd todo-laravel-inertia-react`
 - Install the Composer dependencies `composer install`
 - Set Up .env File `cp .env.example .env`
